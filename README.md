@@ -24,7 +24,7 @@ git pull origin master
 
 Nguyên nhân:
 - Nguyên nhân 1: Lỗi này do link sai email đăng nhập github
-- Nguyên nhân 2: Do branch, nếu có thêm bản quyền thì nhánh main sẽ chứa file bản quyền, nhánh master sẽ push code -> Không thêm bản quyền nữa
+- Nguyên nhân 2: Do branch, nếu có thêm bản quyền thì nhánh main sẽ chứa file bản quyền, nhánh master sẽ push code -> Không thêm bản quyền nữa (có khi nhận merge vào main branch thì mới được count contributions)
 
 ```console
 $ git config --global user.email viethoang2952002@gmail.com
